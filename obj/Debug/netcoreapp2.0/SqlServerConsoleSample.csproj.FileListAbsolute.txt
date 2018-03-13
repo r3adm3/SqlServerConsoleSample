@@ -1,0 +1,10 @@
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/bin/Debug/netcoreapp2.0/SqlServerConsoleSample.deps.json
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/bin/Debug/netcoreapp2.0/SqlServerConsoleSample.runtimeconfig.json
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/bin/Debug/netcoreapp2.0/SqlServerConsoleSample.runtimeconfig.dev.json
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/bin/Debug/netcoreapp2.0/SqlServerConsoleSample.dll
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/bin/Debug/netcoreapp2.0/SqlServerConsoleSample.pdb
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/obj/Debug/netcoreapp2.0/SqlServerConsoleSample.csproj.CoreCompileInputs.cache
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/obj/Debug/netcoreapp2.0/SqlServerConsoleSample.AssemblyInfoInputs.cache
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/obj/Debug/netcoreapp2.0/SqlServerConsoleSample.AssemblyInfo.cs
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/obj/Debug/netcoreapp2.0/SqlServerConsoleSample.dll
+/Users/daed/Documents/Source/Github/SQLDotnetCoreGetStarted/SqlServerConsoleSample/obj/Debug/netcoreapp2.0/SqlServerConsoleSample.pdb
